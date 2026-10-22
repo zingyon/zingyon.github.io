@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zingyon.github.io/sitemap.xml
